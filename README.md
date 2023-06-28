@@ -6,7 +6,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutormolina&layout=compact)](https://github.com/gutormolina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutormolina&layout=compact&theme=github_dark)](https://github.com/gutormolina/github-readme-stats)
           
 
 
