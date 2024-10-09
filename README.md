@@ -2,7 +2,7 @@
 ## My name is Augusto and my nickname is "Guto"!
 
 - 📖 I'm a computer science student at Universidade Federal de Pelotas.
-- 🌱 I’m currently learning C, Rust and Java.
+- 🌱 I’m currently learning JavaScript.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
