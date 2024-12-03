@@ -4,9 +4,13 @@ My name is **Augusto** and I'm a CS undergraduate at Universidade Federal de Pel
 
 - 🌱 I’m currently learning JavaScript.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,html,css,javascript,git">
+  <br><br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutormolina&layout=compact&theme=github_dark)](https://github.com/gutormolina/github-readme-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutormolina&layout=compact&theme=github_dark)](https://github.com/gutormolina/github-readme-stats)
 
 <!--
 **gutormolina/gutormolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
