@@ -8,7 +8,7 @@ My name is **Augusto** and I'm a CS undergraduate at Universidade Federal de Pel
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,html,css,javascript,git">
   <br><br>
   
-  [![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutormolina)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutormolina)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
